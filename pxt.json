@@ -1,6 +1,6 @@
 {
     "name": "Car",
-    "version": "0.0.10",
+    "version": "1.0.10",
     "description": "ELECFREAKS ring:bit car",
     "license": "MIT",
     "dependencies": {
@@ -9,11 +9,12 @@
     "files": [
         "README.md",
         "car.ts",
-        "_locales/zh-cn/car-strings.json"
+        "_locales/zh-cn/car-strings.json",
+        "_locales/zh-tw/car-strings.json"
     ],
     "testFiles": [
         "tests.ts"
     ],
     "public": true,
-    "installedVersion": "github:elecfreaks/pxt-car#v0.0.10"
+    "installedVersion": "github:elecfreaks/pxt-car#v1.0.10"
 }

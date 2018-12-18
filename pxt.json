@@ -1,20 +1,20 @@
 {
-    "name": "Car",
-    "version": "1.0.10",
-    "description": "ELECFREAKS ring:bit car",
+    "name": "joystickbit",
+    "version": "1.0.0",
+    "description": "ELECFREAKS joystick:bit package",
     "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "README.md",
-        "car.ts",
-        "_locales/zh-cn/car-strings.json",
-        "_locales/zh-tw/car-strings.json"
+        "joystickbit.ts",
+        "_locales/zh-cn/joystickbit-strings.json",
+        "_locales/zh-tw/joystickbit-strings.json"
     ],
     "testFiles": [
         "tests.ts"
     ],
     "public": true,
-    "installedVersion": "github:elecfreaks/pxt-car#v1.0.10"
+    "installedVersion": "github:elecfreaks/pxt-joystickbit#v1.0.0"
 }

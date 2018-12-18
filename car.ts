@@ -8,17 +8,17 @@
 namespace ringbitcar {
     
     export enum TrackingStateType {
-        //% block="● ●" enumval=0
-        Tracking_State_0,
+        //% block="● ●" 
+        Tracking_State_0 = 0,
 
-        //% block="● ◌" enumval=1
-        Tracking_State_1,
+        //% block="● ◌" 
+        Tracking_State_1 = 1,
 
-        //% block="◌ ●" enumval=2
-        Tracking_State_2,
+        //% block="◌ ●" 
+        Tracking_State_2 = 2,
 
-        //% block="◌ ◌" enumval=3
-        Tracking_State_3,
+        //% block="◌ ◌"
+        Tracking_State_3 = 3
     }
 
 

@@ -1,5 +1,5 @@
 {
-    "name": "RingbitCar",
+    "name": "Car",
     "version": "0.0.10",
     "description": "ELECFREAKS ring:bit car",
     "license": "MIT",
@@ -9,12 +9,12 @@
     },
     "files": [
         "README.md",
-        "ringbitcar.ts",
-        "_locales/zh/ringbitcar-strings.json"
+        "car.ts",
+        "_locales/zh/car-strings.json"
     ],
     "testFiles": [
         "tests.ts"
     ],
     "public": true,
-    "installedVersion": "github:elecfreaks/pxt-ringbitcar-old#v0.0.10"
+    "installedVersion": "github:elecfreaks/pxt-car#v0.0.10"
 }
